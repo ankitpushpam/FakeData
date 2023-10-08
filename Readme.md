@@ -48,10 +48,6 @@ This repository contains two Python scripts, `database_setup.py` and `data_extra
 - SQLAlchemy
 - Faker
 
-## Author
-
-Ankit Pushpam
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
