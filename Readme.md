@@ -50,7 +50,7 @@ This repository contains two Python scripts, `database_setup.py` and `data_extra
 
 ## Author
 
-[Your Name]
+Ankit Pushpam
 
 ## License
 
@@ -62,4 +62,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Faker](https://faker.readthedocs.io/en/master/)
 ```
 
-Replace `[Your Name]` with your name or the name of the author of these scripts. This combined README file provides an overview of what the scripts do and includes instructions on how to use them. It also mentions the required libraries, authorship, and licensing information. Feel free to customize it further to meet your specific needs.
